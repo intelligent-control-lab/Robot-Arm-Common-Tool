@@ -2,7 +2,7 @@
 The general tool libraries for experimenting with robot arm
 
 ## Prerequisites
-MATLAB 2014a or later and that's it. All auxiliary library scripts that are necessary for robot common tools are included in the repo
+MATLAB 2014a or later and that's all. All auxiliary library scripts that are necessary for robot common tools are included in the repo
 
 ## Quick review
 This repo contains three components to help robot arm experimental analysis, including:
@@ -14,4 +14,6 @@ At the same time, we also provide the [STL](https://github.com/intelligent-contr
 Some recommended prior knowledge includes:
 1. [Rigid-body motion](https://en.wikipedia.org/wiki/Rigid_body)
 2. [Robot arm kinematics](https://en.wikipedia.org/wiki/Robot_kinematics)
+
+
 A background presentation slide for this repo can found [here](https://drive.google.com/open?id=1rZMQpULhYv8e-HjKwdnuN6flWwWYbb8n)
